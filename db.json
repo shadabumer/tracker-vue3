@@ -17,12 +17,6 @@
       "text": "Go to market",
       "day": "Tomorrow at 6:00 AM",
       "reminder": true
-    },
-    {
-      "id": 30438,
-      "text": "Meeting at School",
-      "day": "May 15th at 11:00 AM",
-      "reminder": false
     }
   ]
 }
